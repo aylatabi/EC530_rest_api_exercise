@@ -1,0 +1,45 @@
+Vit/Min/Prot/Unconv Diet(Human/Animal)
+Cosmetics
+Nuts/Edible Seed
+Vegetables/Vegetable Products
+Bakery Prod/Dough/Mix/Icing
+Soft Drink/Water
+Fruit/Fruit Prod
+Fishery/Seafood Prod
+Cereal Prep/Breakfast Food
+Milk/Butter/Dried Milk Prod
+Mult Food Dinner/Grav/Sauce/Special
+Dietary Conventional Foods/Meal Replacements
+Snack Food Item
+Baby Food Products
+Candy W/O Choc/Special/Chew Gum
+Coffee/Tea
+Ice Cream Prod
+Choc/Cocoa Prod
+Prep Salad Prod
+Powder Formula
+Cheese/Cheese Prod
+Whole Grain/Milled Grain Prod/Starch
+Egg/Egg Prod
+Food Additives (Human Use)
+Spices, Flavors And Salts
+Dressing/Condiment
+Soup
+Food Sweeteners (Nutritive)
+Filled Milk/Imit Milk Prod
+Meat, Meat Products and Poultry
+Macaroni/Noodle Prod
+Beverage Bases/Conc/Nectar
+Medical Foods, N.E.C.
+Vegetable Oils
+Vegetable Protein Prod
+Gelatin/Rennet/Pudding Mix/Pie Filling
+Alcoholic Beverage
+Miscellaneous Food Related Items
+Ready to Serve Formula
+Color Additiv Food/Drug/Cosmetic
+Formula, Form Unspecified
+Food Service/Conveyance
+Liquid Concentrate Formula
+Formula Raw Material
+Edible Insects and Insect-derived Foods

@@ -1,4 +1,4 @@
-USER STORY: As a user, I want to search for adverse food events related to a specific product industry (like vitamins or dairy), so that I can extract and read the types of physical reactions people reported.
+#USER STORY: As a user, I want to search for adverse food events related to a specific product industry (like vitamins or dairy), so that I can extract and read the types of physical reactions people reported.
 
 
 import requests
