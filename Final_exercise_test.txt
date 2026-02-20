@@ -1,0 +1,8 @@
+# create user
+curl -X POST "http://localhost:8000/users?username=ayliza"
+
+# search FDA and save as notes
+curl -X POST "http://localhost:8000/users/1/search?industry=Vitamins&limit=3"
+
+# view saved notes
+curl "http://localhost:8000/users/1/notes"
